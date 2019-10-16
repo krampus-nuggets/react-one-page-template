@@ -3,7 +3,7 @@ import { Box } from "@chakra-ui/core";
 
 const SectionOne = () => {
     return(
-        <Box bg="orange" width="100%" height="700px" color="white" overflow="hidden">
+        <Box bg="#ff7a33" width="100%" height="700px" color="white" overflow="hidden">
             Section 01
         </Box>
     )
