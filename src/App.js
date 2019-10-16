@@ -1,10 +1,11 @@
 import React from 'react';
+import SectionOne from "./containers/sectionOne";
 import './styles/styles.css';
 
 function App() {
   return (
     <div>
-      Mongo Bongo
+      <SectionOne />
     </div>
   );
 }
