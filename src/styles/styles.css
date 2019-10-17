@@ -34,3 +34,11 @@ code {
 .App-link {
   color: #09d3ac;
 }
+
+.contentSection {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 0%;
+  height: 88%
+}
+
