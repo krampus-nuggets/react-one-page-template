@@ -9,7 +9,7 @@ const SectionThree = () => {
             <Text fontSize="40px" m="0">
                 Section 03
             </Text>
-            <Content title="Whoa Too Much" shortDesc="Didn't you here, too much fam -_-" />
+            <Content title="Whoa Too Much" shortDesc="Didn't you hear, too much fam -_-" />
         </Box>
     )
 }
