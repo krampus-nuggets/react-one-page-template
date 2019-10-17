@@ -1,6 +1,7 @@
 import React from 'react';
 import { Box } from "@chakra-ui/core";
 import { Text } from "@chakra-ui/core";
+import Content from "../components/content";
 
 const SectionOne = () => {
     return(
@@ -8,6 +9,7 @@ const SectionOne = () => {
             <Text fontSize="40px" m="0">
                 Section 01
             </Text>
+            <Content title="Krampus-OPR" shortDesc="One Page - ReactJS Template" />
         </Box>
     )
 }
