@@ -34,3 +34,38 @@ code {
 .App-link {
   color: #09d3ac;
 }
+
+.contentSection {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 0%;
+  height: 88%
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .contentSection {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 768px) {
+  .contentSection {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1280px) {
+  .contentSection {
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+}
+
+@media (min-width: 1280px) and (max-width: 7680px) {
+  .contentSection {
+    margin-right: 15%;
+    margin-left: 15%;
+  }
+}

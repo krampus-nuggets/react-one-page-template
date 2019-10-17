@@ -1,6 +1,7 @@
 import React from 'react';
 import { Box } from "@chakra-ui/core";
 import { Text } from "@chakra-ui/core";
+import Content from "../components/content";
 
 const SectionThree = () => {
     return(
@@ -8,6 +9,7 @@ const SectionThree = () => {
             <Text fontSize="40px" m="0">
                 Section 03
             </Text>
+            <Content title="Whoa Too Much" shortDesc="Didn't you here, too much fam -_-" />
         </Box>
     )
 }
