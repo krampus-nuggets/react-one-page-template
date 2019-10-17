@@ -49,3 +49,10 @@ code {
   }
 }
 
+@media (min-width: 425px) and (max-width: 768px) {
+  .contentSection {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+}
+
