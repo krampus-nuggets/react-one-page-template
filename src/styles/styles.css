@@ -42,3 +42,10 @@ code {
   height: 88%
 }
 
+@media (min-width: 320px) and (max-width: 425px) {
+  .contentSection {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
