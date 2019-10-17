@@ -56,3 +56,9 @@ code {
   }
 }
 
+@media (min-width: 768px) and (max-width: 7680px) {
+  .contentSection {
+    margin-right: 15%;
+    margin-left: 15%;
+  }
+}
