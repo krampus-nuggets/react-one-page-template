@@ -14,6 +14,7 @@ A one-page multi-section <a  href="https://github.com/facebook/react">ReactJS</a
  - ReactJS UI
  - Chakra UI Components (Bootstrap, pffffft😂)
  - Plugin & Play-ish 🤷🏽‍♂️
+ - Very simplistic design for Very simplistic implementation
 
 ---
 
